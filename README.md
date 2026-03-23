@@ -140,6 +140,5 @@ The system is designed to achieve high detection accuracy with low inference lat
 
 ---
 
-## 10. Architecture & Workflow
 
-### High-Level Pipeline
+
